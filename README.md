@@ -8,3 +8,6 @@ Key design elements:
 
 Limitations:
 - The game is not optimized for all IOS devices (Some scene elements may not be visible on some devices). The recommended device for testing is iPad Pro 12.9 gen 5.
+
+![Game](https://github.com/PythonHackerr/Jetpack-Game-on-IOS/assets/43787813/06be6ff0-3439-4ac8-be1d-f098b34612ca)
+
